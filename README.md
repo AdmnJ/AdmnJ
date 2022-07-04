@@ -8,7 +8,7 @@
 <img align="center" src="assets/Ubuntu.png" alt="arch" width="59">
 <img align="center" src="assets/Windows-11-Icon-Logo.png" alt="arch" width="59">
 
-## Cyber security student, technology hobieset, and avid gamer.
+## Cyber security student, technology hobbyist, and avid gamer.
 ## `$ cat aboutme.txt`
 <img align="left" src="assets/Type.gif" alt="" width="143px">
 
